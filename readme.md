@@ -14,7 +14,7 @@ Enterprise-grade data platform for fund administration, providing comprehensive 
 ### Unity Catalog: fund_admin
 
 **Medallion Architecture:**
-<img width="1915" height="894" alt="image" src="https://github.com/user-attachments/assets/133251fa-ee6c-47bb-bb75-6b3349e01740" />
+<img width="1915" height="894" alt="image" src="/1.png" />
 
 #### Bronze Layer (Raw Data)
 - `funds` - Fund master data from source systems
@@ -64,7 +64,7 @@ Implemented comprehensive DQ framework:
 - Quality metrics persistence and trending
 - Health status monitoring (Healthy/Warning/Critical)\
   
-<img width="984" height="555" alt="image" src="https://github.com/user-attachments/assets/fa48b8ce-b590-4d6a-9bb0-6bcdedca5ef4" />
+<img width="984" height="555" alt="image" src="/2.png" />
 
 ## Governance & Compliance
 
@@ -85,7 +85,7 @@ Implemented comprehensive DQ framework:
 - Gold: 7 years (regulatory requirement)
 - Ops: 1 year
 
-<img width="1891" height="898" alt="image" src="https://github.com/user-attachments/assets/0d926444-6c00-498d-bd1b-95bad1bc80ad" />
+<img width="1891" height="898" alt="image" src="/3.png" />
 
 ## Analytics & Reporting
 
@@ -112,7 +112,7 @@ Comprehensive fund analytics dashboard with:
 - Primary: fund_admin.gold.fund_nav_daily
 - Secondary: fund_admin.gold.fund_cashflows, api_fund_summary, asset_allocation
   
-<img width="905" height="714" alt="image" src="https://github.com/user-attachments/assets/b927db05-f9b6-4e89-bd71-a22d148a977b" />
+<img width="905" height="714" alt="image" src="/4.png" />
 
 ## Key Features
 
